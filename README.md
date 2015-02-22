@@ -1,2 +1,2 @@
 # kladdkaka.github.io
-Mjölkproteiner
+Copyright 2015 Kladdkaka@github
