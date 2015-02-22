@@ -1,0 +1,14 @@
+body {
+    margin: 0 auto;
+}
+header {
+    background-image: url(/img/bubbles.jpg);
+    text-align: center;
+    color: white;
+}
+header h1 {
+    font-size: 64px;
+}
+header h2 {
+    font-size: 48px;
+}
